@@ -1,0 +1,57 @@
+html {
+	border:12px solid black;
+}
+.site-title {
+	text-align: center;
+}
+.site-head {
+	padding-top:2em;
+	padding-bottom:1em;
+	background-color: black;
+}
+.site-head a {
+	color: #fff;
+}
+.main-navigation {
+	background-color: black;
+	font-size:14px;
+	font-weight:700;
+	letter-spacing:1px;
+	padding:15px 0;
+	border-top:1px solid;
+	border-bottom:1px solid;
+	text-transform:uppercase;
+	text-align: center;
+}
+.menu-area{
+	clear: both;
+	width: 100%;
+	height: 50px;
+	margin: 0px 0 0;
+	background: #fff;
+}
+.menu-category{
+	position: relative;
+	width: 50%;
+	height: 50px;
+	text-align: center;
+	margin: 0 auto;
+}
+.main-navigation a {
+	color: black;
+	text-align: center;
+}
+.main-navigation ul {
+	list-style:none;
+	margin:0 auto;
+	padding:3px 0;
+	text-align: center;
+	line-height: 40px;
+}
+.main-navigation li {
+	display:inline-block;
+	float:left;
+	margin:0 1em;
+	position:relative;
+}
+
