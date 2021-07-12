@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+
+header {
+  background-color: black;
+}
+
+.main-logo {
+  text-align: center;
+}
+
+.side-nav {
+  text-align: right;
+  padding: 10px 50px;
+  background-color: white;
+
+}
+
+.side-nav span {
+  /*     color: white; */
+  font-size: 16px;
+  padding: 5px 10px;
+  display: inline-block;
+}
+
+.search-bar {
+  display: inline;
+  padding-right: 10px;
+}
+
+.register-post {
+  float:left;
+}
+
+.top-nav ul {
+  list-style: none;
+  text-align: center;
+  margin: 0;
+}
+
+.top-nav ul li {
+  display: inline;
+  color: white;
+  font: bold 32px Dotum;
+  padding: 0 10px;
+  border-left: 1px solid #999;
+}
