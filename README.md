@@ -1,24 +1,6 @@
-# hizini
+<div align="center">
 
-## Project setup
-```
-npm install
-```
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=6ad6ff&height=150&section=header&text=Welcome%20to%20Hizini's%20Github!&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=55)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+  
+</div>
